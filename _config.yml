@@ -290,3 +290,6 @@ defaults:
 jekyll_admin:
   hidden_links:
   homepage: ""
+
+future: true
+published: true
