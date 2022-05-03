@@ -2,14 +2,14 @@
 main:
   # - title: "About"
   #   url: /about/
+  - title: "Algorithm"
+    url: /algo/
   - title: "boj"
     url: /boj/
   - title: "Category"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Home"
-    url: /
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
