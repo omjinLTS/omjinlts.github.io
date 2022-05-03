@@ -4,7 +4,7 @@ main:
   #   url: /about/
   - title: "Algorithm"
     url: /algo/
-  - title: "Boj"
+  - title: "BOJ"
     url: /boj/
   - title: "Category"
     url: /categories/
