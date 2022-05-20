@@ -21,15 +21,15 @@ vscode에서 include path 오류나, xcode로 개발 시 bits/stdc++.h를 사용
 2. 터미널로 이동
 
 ```bash
-cd /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1
+$ cd /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1
 ```
 
 ```bash
-sudo mkdir bits
+$ sudo mkdir bits
 ```
 
 ```bash
-sudo cp ~/Documents/stdc++.h ./bits
+$ sudo cp ~/Documents/stdc++.h ./bits
 ```
 
 `~/Documents/stdc++.h` 부분은 본인이 만들어 둔 stdc++.h 파일의 경로를 적어주면 된다.
