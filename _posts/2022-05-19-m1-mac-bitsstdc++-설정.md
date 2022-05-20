@@ -1,5 +1,5 @@
 ---
-title: "\\[백준 17419\\] 비트가 넘쳐흘러 Python"
+title: "Mac bits/stdc++.h 사용 설정"
 categories:
   - dev
 tags:
