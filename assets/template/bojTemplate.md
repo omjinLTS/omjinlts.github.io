@@ -5,6 +5,9 @@ categories:
 tags:
   - 백준
   # 언어
+  - 파이썬
+  - python
+  - c++
   # 분류
 last_modified_at: #cmd+shift+I
 toc: true
