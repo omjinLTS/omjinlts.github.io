@@ -1,5 +1,5 @@
 ---
-title: "이분 탐색 (Binary/Parametric Search)"
+title: "[알고리즘] 이분 탐색 (Binary/Parametric Search)"
 categories:
   - algorithm
 tags:
