@@ -2,6 +2,8 @@
 main:
   # - title: "About"
   #   url: /about/
+  - title: "Dev"
+    url: /dev/
   - title: "Algorithm"
     url: /algo/
   - title: "BOJ"
