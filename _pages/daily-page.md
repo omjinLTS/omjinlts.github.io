@@ -1,10 +1,10 @@
 ---
-title: "백준 문제풀이"
-permalink: /boj/
+title: "일상 이야기"
+permalink: /daily/
 layout: archive
 author_profile: true
-toxonomy: boj
+toxonomy: daily
 ---
 
-{% assign posts = site.categories.boj %}
+{% assign posts = site.categories.daily %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
