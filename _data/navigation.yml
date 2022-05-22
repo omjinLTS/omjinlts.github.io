@@ -5,7 +5,7 @@ main:
   - title: "Dev"
     url: /dev/
   - title: "Algorithm"
-    url: /algo/
+    url: /algorithm/
   - title: Daily
     url: /daily/
   - title: "Category"
