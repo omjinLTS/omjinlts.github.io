@@ -1,7 +1,7 @@
 ---
 title: "\\[백준 0000\\] 제목 lang 언어"
 categories:
-  - boj
+  - algorithm
 tags:
   - 백준
   # 언어
