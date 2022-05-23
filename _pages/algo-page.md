@@ -1,6 +1,6 @@
 ---
 title: "알고리즘 정리"
-permalink: /algo/
+permalink: /algorithm/
 layout: archive
 author_profile: true
 toxonomy: algorithm
