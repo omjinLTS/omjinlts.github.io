@@ -186,6 +186,13 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # Conversion
 markdown: kramdown
 highlighter: rouge
@@ -300,3 +307,5 @@ jekyll_admin:
 
 future: true
 published: true
+
+
