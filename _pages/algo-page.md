@@ -3,7 +3,7 @@ title: "알고리즘 정리"
 permalink: /algorithm/
 layout: archive
 author_profile: true
-toxonomy: algorithm
+taxonomy: algorithm
 ---
 
 {% assign posts = site.categories.algorithm %}

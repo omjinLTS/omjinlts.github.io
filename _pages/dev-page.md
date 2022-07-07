@@ -3,7 +3,7 @@ title: "개발을 해봅시다"
 permalink: /dev/
 layout: archive
 author_profile: true
-toxonomy: Dev
+taxonomy: Dev
 ---
 
 {% assign posts = site.categories.dev %}

@@ -3,7 +3,7 @@ title: "일상 이야기"
 permalink: /daily/
 layout: archive
 author_profile: true
-toxonomy: daily
+taxonomy: daily
 ---
 
 {% assign posts = site.categories.daily %}
