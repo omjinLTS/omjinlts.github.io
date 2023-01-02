@@ -22,7 +22,7 @@ toc_sticky: true
 
 ## 정답 코드
 
-```python
 {% raw %}
-{% endraw %}
+```python
 ```
+{% endraw %}
