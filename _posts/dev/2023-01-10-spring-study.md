@@ -21,4 +21,4 @@ Backend 개발에서 활발히 사용되는 Spring, Spring boot를 공부하며 
 
 ## 목차
 
-[1. 프로젝트 환경 설정]()
+[1. 프로젝트 환경설정](https://omjinlts.github.io/dev/spring-01/)
