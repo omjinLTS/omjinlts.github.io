@@ -22,7 +22,5 @@ toc_sticky: true
 
 ## 정답 코드
 
-{% raw %}
 ```python
 ```
-{% endraw %}
