@@ -1,6 +1,7 @@
 ---
 title: "[comm] SISO Shannon Capacity: Deriving the Rate Limit via Entropy"
 categories:
+  - Research
   - Communication
 tags:
   - Research
@@ -11,6 +12,8 @@ last_modified_at: 2026-01-19 18:55:38
 toc: true
 toc_sticky: true
 use_math: true
+excerpt: "Derive SISO Shannon Capacity with Entropy of information theory"
+description: "Derive SISO Shannon Capacity with Entropy of information theory"
 ---
 
 ## 0. Intro: The Physical Limit of Throughput
@@ -68,7 +71,7 @@ Since we want to maximize the information transfer (Capacity) under a limited po
 
 $$H(\mathcal{CN}) = \log_2(\pi e \sigma^2)$$
 
-> For a detailed step-by-step derivation of why Gaussian entropy results in log(πeσ2), you can check it [here](../../informationtheory/derive-NC-entropy)
+> For a detailed step-by-step derivation of why Gaussian entropy results in log(πeσ2), you can check it [here](../infotheory/derive-NC-entropy)
 
 This simple logarithmic relation between "Power ($\sigma^2$)" and "Information ($H$)" is the key to deriving the channel capacity.
 
@@ -160,7 +163,7 @@ plt.show()
 ```
 ### Observation
 
-![result plot](../../assets/img/comm/SISO_Shannon_SNR.png)
+![result plot](/assets/img/comm/SISO_Shannon_SNR.png)
 > Note that the y-axis of the plot is shown on a logarithmic scale.
 
 The plot demonstrates the logarithmic nature of capacity with respect to power. To achieve a linear increase in data rate, the power must be increased exponentially. This physical limitation necessitates the use of **spatial multiplexing techniques (MIMO)** to overcome the single-channel capacity barrier.

@@ -1,6 +1,7 @@
 ---
 title: "Derivation of Differential Entropy for Complex Gaussian Distribution"
 categories:
+  - Research
   - InformationTheory
 tags:
   - Research
