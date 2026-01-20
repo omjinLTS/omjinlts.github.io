@@ -175,7 +175,5 @@ We have derived the SISO capacity limit using the concept of Differential Entrop
 In the next post, I will extend this derivation to **MIMO (Multiple-Input Multiple-Output)** systems. We will observe how the scalar variance transforms into a **Covariance Matrix**, and how the simple logarithm evolves into the **Log-Determinant ($\log$ $\det$)**, a crucial component in modern beamforming optimization.
 
 ---
-
-### References
-
-- C. E. Shannon, "A Mathematical Theory of Communication," Bell System Technical Journal, 1948.
+**References**
+- Christensen, Søren Skovgaard, et al. “Weighted Sum-Rate Maximization Using Weighted MMSE for MIMO-BC Beamforming Design.” IEEE Transactions on Wireless Communications, vol. 7, no. 12, Dec. 2008, pp. 4792–99. DOI.org (Crossref), https://doi.org/10.1109/T-WC.2008.070851.
