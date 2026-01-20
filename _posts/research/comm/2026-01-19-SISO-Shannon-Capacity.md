@@ -71,7 +71,7 @@ Since we want to maximize the information transfer (Capacity) under a limited po
 
 $$H(\mathcal{CN}) = \log_2(\pi e \sigma^2)$$
 
-> For a detailed step-by-step derivation of why Gaussian entropy results in log(πeσ2), you can check it [here](../infotheory/derive-NC-entropy)
+> For a detailed step-by-step derivation of why Gaussian entropy results in log(πeσ2), you can check it [here](/research/informationtheory/derive-NC-entropy/)
 
 This simple logarithmic relation between "Power ($\sigma^2$)" and "Information ($H$)" is the key to deriving the channel capacity.
 
